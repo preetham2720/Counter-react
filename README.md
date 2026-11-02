@@ -1,4 +1,4 @@
-# Counter App
+# Counter-react# Counter App
 
 A simple counter application built with React and Vite. Use the controls to increase the count, decrease it without going below zero, or reset it to zero.
 
